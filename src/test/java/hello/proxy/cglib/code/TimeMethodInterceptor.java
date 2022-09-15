@@ -1,4 +1,4 @@
-package hello.proxy.common.cglib.code;
+package hello.proxy.cglib.code;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.cglib.proxy.MethodInterceptor;
